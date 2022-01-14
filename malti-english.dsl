@@ -479,3 +479,120 @@ twila
 twal
 	[c green]adjective[/c], plural
 	[m1]tall, long[/m1]
+qasir
+	[c green]adjective[/c], [c blue]male[/c]
+	[m1]short[/m1]
+qasira
+	[c green]adjective[/c], [c hotpink]female[/c]
+	[m1]short[/m1]
+qosra
+	[c green]adjective[/c], plural
+	[m1]short[/m1]
+dejjem
+	[c green]adverb[/c]
+	[m1]always[/m1]
+sħun
+	[c green]adjective[/c], [c blue]male[/c]
+	[m1]warm, hot[/m1]
+sħuna
+	[c green]adjective[/c], [c hotpink]female[/c]
+	[m1]warm, hot[/m1]
+sħan
+	[c green]adjective[/c], plural
+	[m1]warm, hot[/m1]
+bardan
+	[c green]adjective[/c], [c blue]male[/c]
+	[m1]chilly, cold[/m1]
+bardana
+	[c green]adjective[/c], [c hotpink]female[/c]
+	[m1]chilly, cold[/m1]
+bardanin
+	[c green]adjective[/c], plural
+	[m1]chilly, cold[/m1]
+ġuħ
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]hunger, famine[/m1]
+għatx
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]thirst, longing[/m1]
+riħ
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]wind[/m1]
+ħaġa
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]thing[/m1]
+għada
+	[c green]adverb[/c]
+	[m1]tomorrow[/m1]
+illum
+	[c green]adverb[/c]
+	[m1]today[/m1]
+ilbieraħ
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]yesterday[/m1]
+tieġ
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]wedding[/m1]
+tiġijiet
+	[c green]noun[/c], plural
+	[m1]weddings[/m1]
+ferħan
+	[c green]adjective[/c], [c blue]male[/c]
+	[m1]happy[/m1]
+ferħana
+	[c green]adjective[/c], [c hotpink]female[/c]
+	[m1]happy[/m1]
+ferħanin
+	[c green]adjective[/c], plural
+	[m1]happy[/m1]
+kiebi
+	[c green]adjective[/c], [c blue]male[/c]
+	[m1]sad, melancholy[/m1]
+kiebja
+	[c green]adjective[/c], [c hotpink]female[/c]
+	[m1]sad, melancholy[/m1]
+kibjin
+	[c green]adjective[/c], plural
+	[m1]sad, melancholy[/m1]
+bergħieni
+	[c green]adjective[/c], [c blue]male[/c] 
+	[m1]angry, enraged[/m1]
+bergħinija
+	[c green]adjective[/c], [c hotpink]female[/c] 
+	[m1]angry, enraged[/m1]
+bergħinin
+	[c green]adjective[/c], plural
+	[m1]angry, enraged[/m1]
+filgħodu
+	[c green]adverb[/c]
+	[m1]In the morning[/m1]
+ħobż
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]bread, loaf[/m1]
+ħobżiet
+	[c green]noun[/c], plural
+	[m1]loaves[/m1]
+laħam
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]meat, flesh[/m1]
+ħaxix
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]vegetables, grass[/m1]
+ġimgħa
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]week[/m1]
+ġimgħat
+	[c green]noun[/c], plural
+	[m1]weeks[/m1]
+ħajjat
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]tailor, dressmaker[/m1]
+ħajjata
+	[c green]noun[/c], [c hotpink]female[/c] 
+	[m1]tailor, dressmaker[/m1]
+ħajjatin
+	[c green]noun[/c], plural
+	[m1]tailors, dressmakers[/m1]
+kultant
+	[c green]adverb[/c]
+	[m1]sometimes, occasionally[/m1]
