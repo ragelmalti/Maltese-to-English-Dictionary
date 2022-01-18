@@ -244,6 +244,8 @@ kmamar
 kollox
 	[c green]noun[/c], [c blue]male[/c]
 	[m1]everything[/m1]
+kollu
+	all, completely
 sabiħ
 	[c green]adjective[/c], [c blue]male[/c]
 	[m1]beautiful[/m1] 
@@ -280,6 +282,7 @@ irġiel
 	[c green]noun[/c], plural
 	[m1]man[/m1] 
 ukoll
+wkoll
 	[c green]adverb[/c]
 	[m1]also, too[/m1]
 mara
@@ -596,3 +599,74 @@ laħam
 kultant
 	[c green]adverb[/c]
 	[m1]sometimes, occasionally[/m1]
+xiħ
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]old man[/m1]
+xjuħ
+	[c green]noun[/c], plural
+	[m1]old men[/m1]
+barra
+	[c green]adverb[/c]
+	[m1]Outside, in the open[/m1]
+barra
+	[c green]adverb[/c]
+	[m1]Outside, in the open[/m1]
+żarbun
+	[c green]noun[/c], [c blue]male[/c] 
+	[m1]shoe[/m1]
+żraben
+	[c green]noun[/c], plural 
+	[m1]shoes[/m1]
+misken
+	[c green]noun[/c], [c blue]male[/c] 
+	[m1]poor thing[/m1]
+miskena
+	[c green]noun[/c], [c hotpink]female[/c] 
+	[m1]poor thing[/m1]
+msieken
+	[c green]noun[/c], plural
+	[m1]poor things[/m1]
+Karnival
+	[c green]noun[/c], [c blue]male[/c] 
+	[m1]Carnival[/m1]
+inbid
+	[c green]noun[/c], [c blue]male[/c] 
+	[m1]wine[/m1]
+żejjed
+	[c green]noun[/c], [c blue]male[/c] 
+	[m1]excessive, too much[/m1]
+għaliex
+	[c green]adverb[/c]  
+	[m1]why?[/m1]
+għax
+	Because, as a result of.
+kuljum
+	[c green]adjective[/c]
+	[m1]daily, every day[/m1]
+tassew
+	[c green]adverb[/c]
+	[m1]indeed, really, is that so?[/m1]
+allura
+	[c green]adverb[/c]
+	[m1]then, therefore, as a result[/m1]
+malajr
+	[c green]adverb[/c]
+	[m1]quickly, swiftly, fast[/m1]
+sewwa
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]truth, virtue[/m1]
+fejn
+	[c green]adverb[/c]
+	[m1]where[/m1]
+knisja
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]Church[/m1]
+knejjes
+	[c green]noun[/c], plural
+	[m1]Churches[/m1]
+ħanut
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]shop[/m1]
+ħwienet
+	[c green]noun[/c], plural
+	[m1]shops[/m1]
