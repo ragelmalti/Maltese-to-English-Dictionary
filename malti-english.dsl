@@ -31,10 +31,10 @@ tfal subien
 	[m1]boys[/m1]
 kbir
 	[c green]adjective[/c], [c blue]male[/c]
-	[m1]big[/m1]
+	[m1]big, old[/m1]
 kbira
 	[c green]adjective[/c], [c hotpink]female[/c]
-	[m1]big[/m1]
+	[m1]big, old[/m1]
 jew 
 	or
 tifla
@@ -670,3 +670,175 @@ knejjes
 ħwienet
 	[c green]noun[/c], plural
 	[m1]shops[/m1]
+knisja
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]church[/m1]
+knejjes
+	[c green]noun[/c], plural
+	[m1]churches[/m1]
+Alla
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]God[/m1]
+allat
+	[c green]noun[/c], plural
+	[m1]gods[/m1]
+biex
+	to, in order to
+meta
+	[c green]adverb[/c]
+	[m1]when[/m1]
+minn
+	by, from, than
+bniedem
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]man, human being[/m1]
+bnedmin
+	[c green]noun[/c], plural
+	[m1]men, human beings[/m1]
+Mulej
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]Lord, God[/m1]
+talb
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]praying, begging[/m1]
+permezz
+	[c green]adverb[/c] 
+	[m1]due to, as a result of[/m1]
+liturġija
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]liturgy[/m1]
+liturġiji
+	[c green]noun[/c], plural
+	[m1]liturgies[/m1]
+dinja
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]earth, world[/m1]
+dinjiet
+	[c green]noun[/c], plural
+	[m1]earths, worlds[/m1]
+jekk
+	if, whether
+grazzja
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]grace[/m1]
+skont
+	according to
+għalhekk
+	[c green]adverb[/c]
+	[m1]therefore, for this reason[/m1]
+sultan
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]king, sovereign[/m1]
+sultana
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]queen, sovereign[/m1]
+slaten
+	[c green]noun[/c], plural
+	[m1]kings, queens[/m1]
+dwar
+	about, in connection with
+qawwa
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]energy, power, strength[/m1]
+qabel
+	before
+nisrani
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]Christian[/m1]
+nisranija
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]Christian[/m1]
+nsara
+	[c green]noun[/c], plural
+	[m1]Christians[/m1]
+qawmien
+qajmien
+qajm
+qawm
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]awakening, uprising, resurrection[/m1]
+qalb
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]heart[/m1]
+qalba
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]heart[/m1]
+qlub
+	[c green]noun[/c], plural
+	[m1]hearts[/m1]
+bejn
+	among, between, within
+quddiem
+	front
+xulxin
+	each other
+dnub
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]sin[/m1]
+dnubiet
+	[c green]noun[/c], plural
+	[m1]sins[/m1]
+ċelebrazzjoni
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]celebration[/m1]
+ċelebrazzjonijiet
+	[c green]noun[/c], plural
+	[m1]celebrations[/m1]
+xhieda
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]evidence, testimony[/m1]
+qaddis
+	[c green]adjective[/c], [c blue]male[/c]
+	[m1]holy, sanctified, saintly[/m1]
+qaddisa
+	[c green]adjective[/c], [c hotpink]female[/c]
+	[m1]holy, sanctified, saintly[/m1]
+qaddisin
+	[c green]adjective[/c], plural
+	[m1]holy, sanctified, saintly[/m1]
+xhud
+	[c green]noun[/c]
+	[m1]witness[/m1]
+xbieha
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]likeness, image, portrait[/m1]
+xbihat
+	[c green]noun[/c], plural
+	[m1]likenesses, images, portraits[/m1]
+awtorità
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]authority[/m1]
+awtoritajiet
+	[c green]noun[/c], plural
+	[m1]authorites[/m1]
+membru
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]member[/m1]
+membri
+	[c green]noun[/c], plural
+	[m1]members[/m1]
+dinjità
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]dignity[/m1]
+dinjitajiet
+	[c green]noun[/c], plural
+	[m1]dignity[/m1]
+kuxjenza
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]conscience[/m1]
+isqof
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]bishop[/m1]
+isqfijiet
+	[c green]noun[/c], plural
+	[m1]bishops[/m1]
+sinjal
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]roadsign, sign, token[/m1]
+sinjali
+	[c green]noun[/c], plural
+	[m1]roadsigns, signs, tokens[/m1]
+minnufih
+	[c green]adverb[/c] 
+	[m1]immediately[/m1]
+minnufih
