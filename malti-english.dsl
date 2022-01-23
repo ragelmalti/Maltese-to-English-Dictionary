@@ -841,4 +841,138 @@ sinjali
 minnufih
 	[c green]adverb[/c] 
 	[m1]immediately[/m1]
-minnufih
+sajf
+	[c green]noun[/c], [c blue]male[/c]
+	[m1]summer[/m1]
+ħarifa
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]autumn[/m1]
+rebbiegħa
+	[c green]noun[/c], [c hotpink]female[/c]
+	[m1]spring[/m1]
+hekk
+	[c green]adverb[/c] 
+	[m1]thus, in this way[/m1]
+Jannar
+	[c green]noun[/c]
+	[m1]January[/m1]
+Frar
+	[c green]noun[/c]
+	[m1]February[/m1]
+Marzu
+	[c green]noun[/c]
+	[m1]March[/m1]
+April
+	[c green]noun[/c]
+	[m1]April[/m1]
+Mejju
+	[c green]noun[/c]
+	[m1]May[/m1]
+Ġunju
+	[c green]noun[/c]
+	[m1]June[/m1]
+Lulju
+	[c green]noun[/c]
+	[m1]July[/m1]
+Awwissu
+	[c green]noun[/c]
+	[m1]August[/m1]
+Settembru
+	[c green]noun[/c]
+	[m1]September[/m1]
+Ottubru
+	[c green]noun[/c]
+	[m1]October[/m1]
+Novembru
+	[c green]noun[/c]
+	[m1]November[/m1]
+Diċembru
+	[c green]noun[/c]
+	[m1]December[/m1]
+wieħed
+	[c green]numeral[/c]
+	[m1]one[/m1]
+tnejn
+	[c green]numeral[/c]
+	[m1]two[/m1]
+tlieta
+	[c green]numeral[/c]
+	[m1]three[/m1]
+erbgħa
+	[c green]numeral[/c]
+	[m1]four[/m1]
+ħamsa
+	[c green]numeral[/c]
+	[m1]five[/m1]
+sitta
+	[c green]numeral[/c]
+	[m1]six[/m1]
+sebgħa
+	[c green]numeral[/c]
+	[m1]seven[/m1]
+tmienja
+	[c green]numeral[/c]
+	[m1]eight[/m1]
+disgħa
+	[c green]numeral[/c]
+	[m1]nine[/m1]
+għaxra
+	[c green]numeral[/c]
+	[m1]ten[/m1]
+ħdax
+	[c green]numeral[/c]
+	[m1]eleven[/m1]
+tnax
+	[c green]numeral[/c]
+	[m1]twelve[/m1]
+tlettax
+	[c green]numeral[/c]
+	[m1]thirteen[/m1]
+erbatax
+	[c green]numeral[/c]
+	[m1]fourteen[/m1]
+ħmistax
+	[c green]numeral[/c]
+	[m1]fifteen[/m1]
+sittax
+	[c green]numeral[/c]
+	[m1]sixteen[/m1]
+sbatax
+	[c green]numeral[/c]
+	[m1]seventeen[/m1]
+tmintax
+	[c green]numeral[/c]
+	[m1]eighteen[/m1]
+dsatax
+	[c green]numeral[/c]
+	[m1]nineteen[/m1]
+għoxrin
+	[c green]numeral[/c]
+	[m1]twenty[/m1]
+tletin
+	[c green]numeral[/c]
+	[m1]thirty[/m1]
+erbgħin
+	[c green]numeral[/c]
+	[m1]fourty[/m1]
+ħamsin
+	[c green]numeral[/c]
+	[m1]fifty[/m1]
+sittin
+	[c green]numeral[/c]
+	[m1]sixty[/m1]
+sebgħin
+	[c green]numeral[/c]
+	[m1]seventy[/m1]
+tmenin
+	[c green]numeral[/c]
+	[m1]eighty[/m1]
+disgħin
+	[c green]numeral[/c]
+	[m1]ninety[/m1]
+mija
+	[c green]numeral[/c]
+	[m1]one hundred[/m1]
+elf
+	[c green]numeral[/c]
+	[m1]one thousand[/m1]
